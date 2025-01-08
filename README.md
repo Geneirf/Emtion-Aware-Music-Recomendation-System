@@ -1,4 +1,4 @@
-# DADS5001-Final-Project
+# Tutorial
 
 <p>1. How to get spotify client id and secret<br>
   
