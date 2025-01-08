@@ -4,7 +4,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;1.1 Log in to [Spotify's Developer Dashboard](https://developer.spotify.com/)
 Go to the Spotify Developer Dashboard .
 If you don't have a Spotify account, you'll need to create one.
-Once you have an account, log in to the Dashboard.
+Once you have an account, log in to the Dashboard.<br>
 
 <img src="https://github.com/user-attachments/assets/22abcdc7-4f82-4055-8cde-56913492cc5e" alt="image" width="400">
 
