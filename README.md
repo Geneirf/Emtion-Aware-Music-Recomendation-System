@@ -1,8 +1,8 @@
 # DADS5001-Final-Project
-DADS5001 Final Project
+
 How to get spotify client id and secret
 1. Log in to Spotify's Developer Dashboard
-Go to the Spotify Developer Dashboard [invalid URL removed].
+Go to the Spotify Developer Dashboard [(https://developer.spotify.com/)].
 If you don't have a Spotify account, you'll need to create one.
 Once you have an account, log in to the Dashboard.   
 2. Create an App
