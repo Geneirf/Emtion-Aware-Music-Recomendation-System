@@ -1,6 +1,7 @@
 # Tutorial
  
 <p>1. How to get spotify client id and secret<br>
+ 
 &nbsp;&nbsp;&nbsp;&nbsp;1.1 Log in your Spotify Account in <a href="https://developer.spotify.com">Spotify Developer Dashboard</a><br>
  
 <img src="https://github.com/user-attachments/assets/22abcdc7-4f82-4055-8cde-56913492cc5e" alt="image" width="400">
