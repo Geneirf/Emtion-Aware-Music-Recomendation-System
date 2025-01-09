@@ -1,4 +1,4 @@
-# Tutorial
+# Intruction
 
 <p>1. How to get spotify client id and secret<br>
   
