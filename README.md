@@ -25,7 +25,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;2.2 Streamlit run **`SpotMood.py`** and then Click Spotify authorize button <br>
  
 **Note: The user Log-in must match the exact one that you getting Client_ID and Secret from**<br>
-**Note2: Require Spotify Premium account to access the API**
+**Note2: Require Spotify Premium account to access the API**<br>
 <img src="https://github.com/user-attachments/assets/b5cd50da-5444-4724-adc8-365122a2b7b5" alt="image" width="400">
  
  
