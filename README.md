@@ -14,7 +14,7 @@
 <img src="https://github.com/user-attachments/assets/87025885-69e8-452d-b477-7760d16260bf" alt="image" width="400">
  
  
-&nbsp;&nbsp;&nbsp;&nbsp;1.3 Get the Client ID and Client Secret to log in to the app<br>
+&nbsp;&nbsp;&nbsp;&nbsp;1.4 Save your Client ID and Client Secret to log in to the app<br>
  
 <img src="https://github.com/user-attachments/assets/e24cc09b-180d-45c2-8e9c-e96560149386" alt="image" width="400"></p>
  
