@@ -20,7 +20,8 @@
  
  
 <p>2. Fill in your GoogleAPIKey , CLient_ID and Client_Secret<br>
-&nbsp;&nbsp;&nbsp;&nbsp;2.1 Fill your GoogleAPIKey , Client ID and Client Secret in **`.env`** file inside streamlit app folder
+ 
+&nbsp;&nbsp;&nbsp;&nbsp;2.1 Fill your GoogleAPIKey , Client ID and Client Secret in **`.env`** file inside streamlit app folder<br>
 &nbsp;&nbsp;&nbsp;&nbsp;2.2 Streamlit run **`SpotMood.py`** and then Click Spotify authorize button <br>
  
 **Note: The user log-in must match the exact one that you getting Client_ID and Secret from**
